@@ -2,7 +2,7 @@ Name:           worminator-data
 Version:        3.0R2.1
 Release:        %mkrel 1
 Summary:        Data for Worminator
-Group:          Amusements/Games
+Group:          Games/Arcade
 License:        GPLv2+
 URL:            http://sourceforge.net/projects/worminator/
 Source0:        http://download.sourceforge.net/worminator/%{name}-%{version}.tar.gz
