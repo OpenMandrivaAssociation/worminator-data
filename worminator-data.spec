@@ -6,7 +6,6 @@ Group:          Games/Arcade
 License:        GPLv2+
 URL:            http://sourceforge.net/projects/worminator/
 Source0:        http://download.sourceforge.net/worminator/%{name}-%{version}.tar.gz
-BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
 BuildArch:      noarch
 
 %description
