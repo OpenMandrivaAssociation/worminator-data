@@ -1,6 +1,6 @@
 Name:           worminator-data
 Version:        3.0R2.1
-Release:        %mkrel 4
+Release:        %mkrel 5
 Summary:        Data for Worminator
 Group:          Games/Arcade
 License:        GPLv2+
