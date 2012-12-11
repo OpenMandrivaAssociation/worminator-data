@@ -28,3 +28,29 @@ rm -rf %{buildroot}
 %defattr(-,root,root)
 %{_datadir}/worminator
 
+
+
+%changelog
+* Wed Sep 09 2009 Thierry Vignaud <tvignaud@mandriva.com> 3.0R2.1-5mdv2010.0
++ Revision: 434977
+- rebuild
+
+* Sun Aug 03 2008 Thierry Vignaud <tvignaud@mandriva.com> 3.0R2.1-4mdv2009.0
++ Revision: 262150
+- rebuild
+
+* Wed Jul 30 2008 Thierry Vignaud <tvignaud@mandriva.com> 3.0R2.1-3mdv2009.0
++ Revision: 256384
+- rebuild
+- kill re-definition of %%buildroot on Pixel's request
+
+  + Olivier Blin <oblin@mandriva.com>
+    - restore BuildRoot
+
+* Sat Oct 27 2007 Adam Williamson <awilliamson@mandriva.org> 3.0R2.1-1mdv2008.1
++ Revision: 102481
+- correct group
+- spec based on Fedora, thanks
+- import worminator-data
+
+
